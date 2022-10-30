@@ -1,0 +1,34 @@
+Commandline: ./gnina -r 1onq_cd1a.pdb -l slf.pdb --autobox_ligand slf.pdb -o 1onq_slf.sdf --flexdist_ligand slf.pdb --flexdist 3.5 --seed 0
+==============================
+*** Open Babel Warning  in PerceiveBondOrders
+  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders
+
+Flexible residues: A:14 A:70 A:72 A:73 A:76 A:77 A:81 A:114 A:148 A:154 A:158
+Using random seed: 0
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |  affinity  |    CNN     |   CNN
+     | (kcal/mol) | pose score | affinity
+-----+------------+------------+----------
+    1      -10.14       0.3302      7.201
+    2      -10.32       0.3264      7.458
+    3       -9.77       0.3215      7.348
+    4       -9.66       0.1793      6.809
+    5      -10.15       0.1735      7.027
+    6       -9.47       0.1652      6.681
+    7       -9.99       0.1651      6.534
+    8       -9.90       0.1630      7.017
+    9       -9.65       0.1543      7.205
+
+RMSD  9.672
+RMSD  7.62274
+RMSD  7.84335
+RMSD  8.22393
+RMSD  9.85135
+RMSD  9.61507
+RMSD  12.0307
+RMSD  9.68658
+RMSD  8.46259
