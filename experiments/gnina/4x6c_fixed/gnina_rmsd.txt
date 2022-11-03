@@ -1,0 +1,46 @@
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.1 HEAD:aa41230   Built Mar 23 2021.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+Commandline: ./gnina -r 4x6c_cd1a.pdb -l 42h.pdb --autobox_ligand 42h.pdb -o 4x6c_42h.sdf --seed 0
+==============================
+*** Open Babel Warning  in PerceiveBondOrders
+  Failed to kekulize aromatic bonds in OBMol::PerceiveBondOrders
+
+Using random seed: 0
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+
+mode |  affinity  |    CNN     |   CNN
+     | (kcal/mol) | pose score | affinity
+-----+------------+------------+----------
+    1       -7.92       0.8521      7.009
+    2       -8.01       0.7733      6.604
+    3       -7.60       0.7661      6.678
+    4       -8.17       0.7642      6.286
+    5       -7.80       0.7544      6.195
+    6       -7.80       0.7544      6.561
+    7       -8.30       0.7345      6.529
+    8       -7.44       0.6763      6.340
+    9       -8.21       0.6687      6.182
+
+RMSD  4.71331
+RMSD  4.80412
+RMSD  4.70842
+RMSD  2.22588
+RMSD  1.65384
+RMSD  3.78094
+RMSD  3.66528
+RMSD  2.8563
+RMSD  2.83468
