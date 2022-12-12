@@ -1,0 +1,28 @@
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.2 HEAD:903a27e+   Built Jun 22 2022.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+Commandline: tools/gnina -r pdb_files/split/7koz_cd1a.pdb -l pdb_files/split/7koz_ligand.pdb --autobox_ligand pdb_files/split/7koz_ligand.pdb -o experiments/gnina-exhaustive-100/7koz/7koz.sdf --log experiments/gnina-exhaustive-100/7koz/7koz.txt --exhaustiveness 100 --seed 0
+Using random seed: 0
+
+mode |  affinity  |    CNN     |   CNN
+     | (kcal/mol) | pose score | affinity
+-----+------------+------------+----------
+    1       -9.23       0.5818      7.175
+    2       -9.35       0.5657      7.347
+    3       -9.48       0.4337      7.060
+    4       -9.41       0.4321      7.290
+    5       -9.38       0.3985      7.446
+    6       -9.45       0.3880      7.068
+    7       -9.24       0.3470      7.272
+    8       -9.31       0.3392      7.089
+    9       -9.19       0.3347      7.021
