@@ -1,0 +1,28 @@
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.2 HEAD:903a27e+   Built Jun 22 2022.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+Commandline: tools/gnina -r pdb_files/split/4x6d_1_cd1a.pdb -l pdb_files/split/4x6d_1_ligand.pdb --autobox_ligand pdb_files/split/4x6d_1_ligand.pdb -o experiments/gnina-exhaustive-50/4x6d_1/4x6d_1.sdf --log experiments/gnina-exhaustive-50/4x6d_1/4x6d_1.txt --exhaustiveness 50 --seed 0
+Using random seed: 0
+
+mode |  affinity  |    CNN     |   CNN
+     | (kcal/mol) | pose score | affinity
+-----+------------+------------+----------
+    1       -7.29       0.9440      6.931
+    2       -7.17       0.9340      6.897
+    3       -6.75       0.8475      6.632
+    4       -6.57       0.8441      6.735
+    5       -7.18       0.8416      6.741
+    6       -7.01       0.8342      6.612
+    7       -7.43       0.8266      6.905
+    8       -7.22       0.8171      6.719
+    9       -7.14       0.8021      6.515
