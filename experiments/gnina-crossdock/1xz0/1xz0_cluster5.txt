@@ -11,4 +11,18 @@ gnina v1.0.2 HEAD:903a27e+   Built Jun 22 2022.
 gnina is based on smina and AutoDock Vina.
 Please cite appropriately.
 
-Commandline: tools/gnina -r pdb_files/split/5jia_cd1a.pdb -l pdb_files/split/1xz0_ligand.pdb --autobox_ligand pdb_files/split/1xz0_ligand.pdb -o experiments/gnina-crossdock/1xz0/1xz0_cluster5.sdf --log experiments/gnina-crossdock/1xz0/1xz0_cluster5.txt --exhaustiveness 100 --seed 0
+Commandline: tools/gnina -r pdb_files/split/5j1a_cd1a.pdb -l pdb_files/split/1xz0_ligand.pdb --autobox_ligand pdb_files/split/1xz0_ligand.pdb -o experiments/gnina-crossdock/1xz0/1xz0_cluster5.sdf --log experiments/gnina-crossdock/1xz0/1xz0_cluster5.txt --exhaustiveness 100 --seed 0
+Using random seed: 0
+
+mode |  affinity  |    CNN     |   CNN
+     | (kcal/mol) | pose score | affinity
+-----+------------+------------+----------
+    1      -10.25       0.3912      7.634
+    2      -10.70       0.3399      7.908
+    3      -10.76       0.3295      7.855
+    4      -10.83       0.3139      7.754
+    5      -10.48       0.3067      7.894
+    6      -10.72       0.2782      7.356
+    7      -10.78       0.2677      7.772
+    8      -10.49       0.2630      7.812
+    9      -10.38       0.2562      7.543
