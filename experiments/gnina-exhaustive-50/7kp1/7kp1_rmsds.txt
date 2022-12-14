@@ -1,0 +1,9 @@
+RMSD pdb_files/split/7kp1_ligand.pdb: 4.29871
+RMSD pdb_files/split/7kp1_ligand.pdb: 5.09708
+RMSD pdb_files/split/7kp1_ligand.pdb: 3.62981
+RMSD pdb_files/split/7kp1_ligand.pdb: 4.12626
+RMSD pdb_files/split/7kp1_ligand.pdb: 5.00633
+RMSD pdb_files/split/7kp1_ligand.pdb: 4.9377
+RMSD pdb_files/split/7kp1_ligand.pdb: 14.2555
+RMSD pdb_files/split/7kp1_ligand.pdb: 5.92825
+RMSD pdb_files/split/7kp1_ligand.pdb: 5.34384

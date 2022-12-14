@@ -1,0 +1,9 @@
+RMSD pdb_files/split/7ryo_ligand.pdb: 6.69619
+RMSD pdb_files/split/7ryo_ligand.pdb: 7.02848
+RMSD pdb_files/split/7ryo_ligand.pdb: 2.50781
+RMSD pdb_files/split/7ryo_ligand.pdb: 1.74298
+RMSD pdb_files/split/7ryo_ligand.pdb: 6.47696
+RMSD pdb_files/split/7ryo_ligand.pdb: 5.79584
+RMSD pdb_files/split/7ryo_ligand.pdb: 6.79596
+RMSD pdb_files/split/7ryo_ligand.pdb: 1.68763
+RMSD pdb_files/split/7ryo_ligand.pdb: 3.88453

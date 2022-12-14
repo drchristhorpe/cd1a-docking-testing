@@ -1,0 +1,9 @@
+RMSD pdb_files/split/6nux_ligand.pdb: 3.26814
+RMSD pdb_files/split/6nux_ligand.pdb: 2.28565
+RMSD pdb_files/split/6nux_ligand.pdb: 8.46046
+RMSD pdb_files/split/6nux_ligand.pdb: 6.88347
+RMSD pdb_files/split/6nux_ligand.pdb: 2.96589
+RMSD pdb_files/split/6nux_ligand.pdb: 7.05946
+RMSD pdb_files/split/6nux_ligand.pdb: 8.80506
+RMSD pdb_files/split/6nux_ligand.pdb: 8.08449
+RMSD pdb_files/split/6nux_ligand.pdb: 7.54091

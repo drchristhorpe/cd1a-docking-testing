@@ -1,0 +1,9 @@
+RMSD pdb_files/split/1onq_ligand.pdb: 10.3415
+RMSD pdb_files/split/1onq_ligand.pdb: 3.81857
+RMSD pdb_files/split/1onq_ligand.pdb: 9.69924
+RMSD pdb_files/split/1onq_ligand.pdb: 9.84488
+RMSD pdb_files/split/1onq_ligand.pdb: 2.7893
+RMSD pdb_files/split/1onq_ligand.pdb: 3.47923
+RMSD pdb_files/split/1onq_ligand.pdb: 2.82546
+RMSD pdb_files/split/1onq_ligand.pdb: 11.5078
+RMSD pdb_files/split/1onq_ligand.pdb: 9.39943

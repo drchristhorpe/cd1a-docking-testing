@@ -1,0 +1,9 @@
+RMSD pdb_files/split/1xz0_ligand.pdb: 7.12108
+RMSD pdb_files/split/1xz0_ligand.pdb: 6.04543
+RMSD pdb_files/split/1xz0_ligand.pdb: 6.11743
+RMSD pdb_files/split/1xz0_ligand.pdb: 11.627
+RMSD pdb_files/split/1xz0_ligand.pdb: 2.70277
+RMSD pdb_files/split/1xz0_ligand.pdb: 2.74162
+RMSD pdb_files/split/1xz0_ligand.pdb: 6.92716
+RMSD pdb_files/split/1xz0_ligand.pdb: 8.41602
+RMSD pdb_files/split/1xz0_ligand.pdb: 13.1939
