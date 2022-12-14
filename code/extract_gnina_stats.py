@@ -1,6 +1,6 @@
 import json
 
-run_name = 'gnina-exhaustive-100'
+run_name = 'gnina-exhaustive-50'
 
 pdb_codes = ['1onq','1xz0','4x6c','4x6d_1','4x6d_2','4x6e','5j1a','6nux','7koz','7kp0','7kp1','7ryn','7ryo','7sh4']
 
