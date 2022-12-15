@@ -1,0 +1,9 @@
+RMSD pdb_files/split/7sh4_ligand.pdb: 2.72291
+RMSD pdb_files/split/7sh4_ligand.pdb: 1.83803
+RMSD pdb_files/split/7sh4_ligand.pdb: 11.7714
+RMSD pdb_files/split/7sh4_ligand.pdb: 12.573
+RMSD pdb_files/split/7sh4_ligand.pdb: 12.7211
+RMSD pdb_files/split/7sh4_ligand.pdb: 2.20947
+RMSD pdb_files/split/7sh4_ligand.pdb: 12.3155
+RMSD pdb_files/split/7sh4_ligand.pdb: 11.8884
+RMSD pdb_files/split/7sh4_ligand.pdb: 2.91948

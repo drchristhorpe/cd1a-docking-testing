@@ -1,6 +1,6 @@
 import json
 
-run_name = 'gnina-exhaustive-200'
+run_name = 'smina-exhaustive-100'
 
 pdb_codes = ['1onq','1xz0','4x6c','4x6d_1','4x6d_2','4x6e','5j1a','6nux','7koz','7kp0','7kp1','7ryn','7ryo','7sh4']
 
@@ -25,7 +25,7 @@ def generate_statistics(frame):
 
 
 for pdb_code in pdb_codes:
-
+    print (pdb_code)
     this_filepath = f'{filepath}/{pdb_code}'
     filename = f'{this_filepath}/{pdb_code}.sdf'
 
@@ -38,14 +38,15 @@ for pdb_code in pdb_codes:
     i = 1
 
     for frame in frames:
+        print (i)
         if len(frame.strip()) > 0:
             this_frame = frame + split_token
             frame_data[str(i)] = {}
             frame_data[str(i)]['full'] = this_frame
             frame_data[str(i)]['info'] = generate_statistics(this_frame)
+            print (frame_data[str(i)]['info'])            
             i += 1
 
     json_output_filepath = f'{this_filepath}/{pdb_code}_scores.json'
     with open(json_output_filepath, 'w') as scores_json_file:
         json.dump(frame_data, scores_json_file)
-    print (frame_data['1']['info'])

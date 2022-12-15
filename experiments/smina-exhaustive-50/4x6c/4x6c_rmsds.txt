@@ -1,0 +1,9 @@
+RMSD pdb_files/split/4x6c_ligand.pdb: 4.68458
+RMSD pdb_files/split/4x6c_ligand.pdb: 5.16249
+RMSD pdb_files/split/4x6c_ligand.pdb: 2.55823
+RMSD pdb_files/split/4x6c_ligand.pdb: 4.62491
+RMSD pdb_files/split/4x6c_ligand.pdb: 2.84393
+RMSD pdb_files/split/4x6c_ligand.pdb: 3.43172
+RMSD pdb_files/split/4x6c_ligand.pdb: 3.91564
+RMSD pdb_files/split/4x6c_ligand.pdb: 2.72212
+RMSD pdb_files/split/4x6c_ligand.pdb: 2.94544

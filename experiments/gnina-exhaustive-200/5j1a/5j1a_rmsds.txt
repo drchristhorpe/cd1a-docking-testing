@@ -1,0 +1,9 @@
+RMSD pdb_files/split/5j1a_ligand.pdb: 10.2444
+RMSD pdb_files/split/5j1a_ligand.pdb: 10.8661
+RMSD pdb_files/split/5j1a_ligand.pdb: 11.2176
+RMSD pdb_files/split/5j1a_ligand.pdb: 10.1905
+RMSD pdb_files/split/5j1a_ligand.pdb: 10.3377
+RMSD pdb_files/split/5j1a_ligand.pdb: 9.79303
+RMSD pdb_files/split/5j1a_ligand.pdb: 10.6507
+RMSD pdb_files/split/5j1a_ligand.pdb: 10.4384
+RMSD pdb_files/split/5j1a_ligand.pdb: 10.5967

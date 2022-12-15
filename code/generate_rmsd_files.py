@@ -2,7 +2,7 @@ import os
 import json
 import numpy as np
 
-run_name = 'smina-exhaustive-25'
+run_name = 'smina-exhaustive-200'
 
 pdb_codes = ['1onq','1xz0','4x6c','4x6d_1','4x6d_2','4x6e','5j1a','6nux','7koz','7kp0','7kp1','7ryn','7ryo','7sh4']
 
