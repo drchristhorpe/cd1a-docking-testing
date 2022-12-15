@@ -7,7 +7,7 @@ ligand_pdb_codes = ['3xu','6fb','42h','cis','fo4','fof','jho','mw9','ola','pam',
 cluster_pdbs = ['7ryn', '7koz','4x6c','7ryo','5j1a']
 
 
-for pdb_code in pdb_codes:
+for pdb_code in ligand_pdb_codes:
     print (pdb_code)
     folder_name = f'experiments/gnina-dock-16/{pdb_code}'
     if os.path.exists(folder_name):
