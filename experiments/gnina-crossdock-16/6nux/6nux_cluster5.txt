@@ -1,0 +1,28 @@
+              _             
+             (_)            
+   __ _ _ __  _ _ __   __ _ 
+  / _` | '_ \| | '_ \ / _` |
+ | (_| | | | | | | | | (_| |
+  \__, |_| |_|_|_| |_|\__,_|
+   __/ |                    
+  |___/                     
+
+gnina v1.0.2 HEAD:903a27e+   Built Jun 22 2022.
+gnina is based on smina and AutoDock Vina.
+Please cite appropriately.
+
+Commandline: tools/gnina -r pdb_files/split/5j1a_cd1a.pdb -l pdb_files/split/6nux_ligand.pdb --autobox_ligand pdb_files/split/6nux_ligand.pdb -o experiments/gnina-crossdock-16/6nux/6nux_cluster5.sdf --log experiments/gnina-crossdock-16/6nux/6nux_cluster5.txt --exhaustiveness 16 --seed 0
+Using random seed: 0
+
+mode |  affinity  |    CNN     |   CNN
+     | (kcal/mol) | pose score | affinity
+-----+------------+------------+----------
+    1       -7.72       0.8316      6.341
+    2       -7.76       0.8169      6.040
+    3       -7.53       0.7661      6.133
+    4       -6.30       0.7057      5.948
+    5       -6.87       0.6898      6.096
+    6       -7.42       0.6543      6.082
+    7       -7.51       0.6098      5.868
+    8       -7.54       0.5793      5.935
+    9       -6.52       0.5504      5.938
