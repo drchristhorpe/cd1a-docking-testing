@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-exhaustiveness = 50
+exhaustiveness = 16
 
 pdb_codes = ['1onq', '1xz0','4x6c','4x6d_1','4x6d_2','4x6e','5j1a','6nux','7koz','7kp0','7kp1','7ryn','7ryo','7sh4']
 
