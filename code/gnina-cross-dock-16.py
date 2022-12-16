@@ -10,9 +10,10 @@ cluster_pdbs = ['7ryn', '7koz','4x6c','7ryo','5j1a']
 for pdb_code in pdb_codes:
     print (pdb_code)
     folder_name = f'experiments/gnina-crossdock-16/{pdb_code}'
-    if os.path.exists(folder_name):
-        print (f'{pdb_code} already docked')
-    else:  
+    if folder_name:
+    #if os.path.exists(folder_name):
+    #    print (f'{pdb_code} already docked')
+    #else:  
         print (folder_name)
         Path(folder_name).mkdir(parents=True, exist_ok=True)
 
@@ -20,7 +21,7 @@ for pdb_code in pdb_codes:
         i = 0
         for cluster_pdb in cluster_pdbs:
             i += 1
-            if cluster_pdb != pdb_code:
+            if cluster_pdb == pdb_code:
                 cd1a_filename = f'pdb_files/split/{cluster_pdb}_cd1a.pdb'
                 ligand_filename = f'pdb_files/split/{pdb_code}_ligand.pdb'
                 docked_filename = f'{folder_name}/{pdb_code}_cluster{i}.sdf'
