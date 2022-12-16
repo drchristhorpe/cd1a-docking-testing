@@ -1,0 +1,9 @@
+RMSD pdb_files/split/7koz_ligand.pdb: 6.94548
+RMSD pdb_files/split/7koz_ligand.pdb: 2.36939
+RMSD pdb_files/split/7koz_ligand.pdb: 7.1355
+RMSD pdb_files/split/7koz_ligand.pdb: 6.93655
+RMSD pdb_files/split/7koz_ligand.pdb: 4.06086
+RMSD pdb_files/split/7koz_ligand.pdb: 13.236
+RMSD pdb_files/split/7koz_ligand.pdb: 6.96402
+RMSD pdb_files/split/7koz_ligand.pdb: 2.70659
+RMSD pdb_files/split/7koz_ligand.pdb: 8.10843

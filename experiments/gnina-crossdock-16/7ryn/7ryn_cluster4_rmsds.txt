@@ -1,0 +1,9 @@
+RMSD pdb_files/split/7ryn_ligand.pdb: 7.99582
+RMSD pdb_files/split/7ryn_ligand.pdb: 13.4263
+RMSD pdb_files/split/7ryn_ligand.pdb: 8.75292
+RMSD pdb_files/split/7ryn_ligand.pdb: 8.73024
+RMSD pdb_files/split/7ryn_ligand.pdb: 7.4259
+RMSD pdb_files/split/7ryn_ligand.pdb: 8.11213
+RMSD pdb_files/split/7ryn_ligand.pdb: 6.31749
+RMSD pdb_files/split/7ryn_ligand.pdb: 8.51421
+RMSD pdb_files/split/7ryn_ligand.pdb: 8.46813
